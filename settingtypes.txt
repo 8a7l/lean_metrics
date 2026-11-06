@@ -1,0 +1,2 @@
+[lean_metrics]
+lean_metrics_sample_interval (Metrics sample interval) float 2.0 0.5 60.0
